@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Melissa Dickerson (@Melissard02)
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student with a keen interest in **software development** and all things **tech**. 🚀
+Welcome to my GitHub profile! I'm a passionate Computer Science student with an interest in **software development** and all things **tech**. 🚀
 
 ## 👀 About Me
 - 🎓 Currently diving deep into **C#** and **JavaScript**.
