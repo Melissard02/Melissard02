@@ -12,6 +12,17 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with an 
 - 💼 [LinkedIn](https://www.linkedin.com/in/melissa-r-dickerson)
 - 📧 melissadickerson02@gmail.com
 
+## 🛠️ Skills & Technologies
+**Languages:**  
+- Python • HTML/CSS • JavaScript (learning) • C# (learning) • Erlang (learning)
+
+**Tools & Platforms:**  
+- Git & GitHub • Visual Studio • VS Code • Postman
+
+## 📊 GitHub Stats
+![Melissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melissard02&show_icons=true&theme=tokyonight)
+
+
 ## ⚡ Fun Fact
 “I write better code when there's a banger playlist in the background — debug dancing is real.” 🎧💃
 
